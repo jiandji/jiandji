@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔬 I currently learning about machine learnin - AI - LLM <br>🧑🏻‍💻 Coding, creating and developing apps<br>🤩 Loving chickins and KFC<br>📍 Jakarta, Indonesia <br><br>🔔 Checkout my LinkedIn: arrafiadjie and Instagram: arafiadjie. <br><br>
+🔬 I passionate about machine learnin - AI - LLM <br>🧑🏻‍💻 Coding, creating and developing apps<br>🤩 Loving chickins and KFC<br>🌱 I love to exploreing new stuff and technologis this how i improve my skills<br> 📍 Jakarta, Indonesia <br><br>🔔 Checkout my website : arrafipamungkas.vercel.app <br><br>
 
 
 ## 🌐 Socials:
