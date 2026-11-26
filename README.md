@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔬 I passionate about machine learnin - AI - LLM <br>💻 Coding, creating and developing apps<br>🌱 I love to explore new stuff and technologies, this is how i improve my skills<br>🍗 Loving chickins and KFC<br> 📍 Jakarta, Indonesia <br><br>🔔 Checkout my website : arrafipamungkas.vercel.app <br><br>
+🔬 I passionate about machine learning - AI - LLM <br>💻 Coding, creating and developing apps<br>🌱 I love to explore new stuff and technologies, this is how i improve my skills<br>🍗 Loving chickins and Tiramisu<br> 📍 Jakarta, Indonesia <br><br>🔔 Checkout my website : https://portofolio.arrafipamungkas.space/ <br><br>
 
 
 ## 🌐 Socials:
